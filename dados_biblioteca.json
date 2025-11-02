@@ -1,0 +1,53 @@
+{
+  "livros": [
+    {
+      "id": 1,
+      "titulo": "Livro1",
+      "autor": {
+        "id": 1,
+        "nome": "leandro",
+        "dataNascimento": "1991-05-02"
+      },
+      "disponivel": true,
+      "dataCadastro": "2025-11-02",
+      "dataAtualizacao": "2025-11-02"
+    },
+    {
+      "id": 2,
+      "titulo": "Livro3",
+      "autor": {
+        "id": 1,
+        "nome": "leandro",
+        "dataNascimento": "1991-05-02"
+      },
+      "disponivel": true,
+      "dataCadastro": "2025-11-02",
+      "dataAtualizacao": "2025-11-02"
+    },
+    {
+      "id": 3,
+      "titulo": "Livro4",
+      "autor": {
+        "id": 2,
+        "nome": "Lorena",
+        "dataNascimento": "1999-07-16"
+      },
+      "disponivel": true,
+      "dataCadastro": "2025-11-02",
+      "dataAtualizacao": "2025-11-02"
+    }
+  ],
+  "autores": [
+    {
+      "id": 1,
+      "nome": "leandro",
+      "dataNascimento": "1991-05-02"
+    },
+    {
+      "id": 2,
+      "nome": "Lorena",
+      "dataNascimento": "1999-07-16"
+    }
+  ],
+  "emprestimos": []
+}
