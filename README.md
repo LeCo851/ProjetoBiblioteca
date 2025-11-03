@@ -40,7 +40,7 @@ O sistema oferece um menu interativo com as seguintes funcionalidades:
 
 1.  **Clone o Repositório:**
     ```bash
-    git clone <URL_DO_SEU_REPOSITORIO_AQUI>
+    git clone <(https://github.com/LeCo851/ProjetoBiblioteca)>
     ```
 
 2.  **Adicione a Biblioteca Gson:**
